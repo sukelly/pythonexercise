@@ -1,0 +1,30 @@
+[
+    {
+        "id": "A",
+        "name": "soda",
+        "cost": 1,
+        "discount": {
+            "quantity": 4,
+            "cost": 3.00
+        }
+    },
+    {
+        "id": "B",
+        "name": "apple",
+        "cost": 0.45,
+        "discount": {
+            "quantity": 3,
+            "cost": 1
+        }
+    },
+    {
+        "id": "C",
+        "name": "jelly",
+        "cost": 3
+    },
+    {
+        "id": "D",
+        "name": "kleenex",
+        "cost": 6
+    }
+]
