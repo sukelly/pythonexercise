@@ -4,17 +4,17 @@
 
 # Run program using cli 
 
-1. `git clone https://github.com/sukelly/pythonexercise.git`
-2. `cd pythonexercise`
-3. `python3 main.py --items <json_file> --cart <cart_items>`
+1. `$ git clone https://github.com/sukelly/pythonexercise.git`
+2. `$ cd pythonexercise`
+3. `$ python3 main.py --items <json_file> --cart <cart_items>`
 
 parameters: 
  - cart_items: string
- - json_file: .json file
+ - json_file: path to .json file
  
 # Run all tests
 
-1. `python3 test_module.py`
+1. `$ python3 test_module.py`
 
 Note: Examples included in instruction are included in test_module.py
 
@@ -46,5 +46,5 @@ See samples/groceryItems.json for an example
 # Example run:
 
 ```
-python3 main.py --items samples/groceryItems.json --cart "ABCD"
+$ python3 main.py --items samples/groceryItems.json --cart "ABCD"
 ```
