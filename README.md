@@ -20,6 +20,7 @@ Note: Examples included in instruction are included in test_module.py
 
 # Usage
 ## json_file schema:
+```
 [
     {
         "type": "object",
@@ -38,6 +39,7 @@ Note: Examples included in instruction are included in test_module.py
         "required": ["id", "name", "cost"]
     }
 ]
+```
 
 See samples/groceryItems.json for an example
 
